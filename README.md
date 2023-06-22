@@ -1,4 +1,4 @@
-<h1 style="color: red">CUB3D</h1>
+<h1 style="color: red;">CUB3D</h1>
 
 <p><strong>This is a 3D game development project that challenges you to build a game engine from scratch using the raycasting technique.
 The goal of the project is to create a 3D game engine that can render a 3D world on a 2D screen. To achieve this, you will need to read a map file that specifies the layout of the game world, including the location of walls, sprites, and other game objects. The engine will then use raycasting to render the 3D world on the screen, creating the illusion of depth and perspective.</strong></p>
